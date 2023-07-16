@@ -10,7 +10,6 @@ $users = array (
   array (
     'login' => 'user2',
     'password' => '$2y$10$KLYdClOCAGagPW15O12CwerE6vOgkq0OY6e3nixmTvb6uBHBZKZfm',
-    'birthday' => '1111-11-11',
   ),
   2 => 
   array (
